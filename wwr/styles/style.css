@@ -121,10 +121,6 @@ footer .social img{
    margin: 200px 0;
 }
 
-.rivers-card {
-   grid-column: 2/4;
-   grid-row: 1/2;
-}
 
 .camping-card {
    grid-column: 5/7;
