@@ -206,6 +206,24 @@
 	grid-row: 5/8;
 	box-shadow: 5px 5px 10px #A2D2FF
   }
+  #salmon-rivers{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	width:50%
+}
+ #desolation-canyons{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	width:50%
+ }
+ #grand-canyons{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width:50%
+ }
  @media screen and (max-width:900px) {
 	#hero,.home-grid {
 	  display: block;
@@ -246,5 +264,3 @@
 	 footer {
 	  margin-top:25px
 	  }
-	}
-	
